@@ -4,8 +4,8 @@ pygame.init
 SPRITE_COLOR_CHANGE_EVENT = pygame.USEREVENT + 1
 BACKGROUND_COLOR_CHANGE_EVENT = pygame.USEREVENT +2
 BLUE = pygame.Color('blue')
-LIGHTBLUE=pygame.Color('lightblue')
-DARKBLUE=pygame.Color('darkblue')
+GREEN=pygame.Color('green')
+DARKGREEN=pygame.Color('dark')
 YELLOW = pygame.Color('yellow')
 MAGENTA = pygame.Color('magenta')
 ORANGE = pygame.Color('orange')
